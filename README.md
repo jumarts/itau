@@ -1,2 +1,4 @@
 # itau
-case
+#CASE
+
+TEC = JAVA,SPRING BOOT, MONGO DB , SPRING DATA e KAFKA   
